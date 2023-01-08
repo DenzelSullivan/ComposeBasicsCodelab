@@ -24,8 +24,6 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.sullivan.composebasicscodelab.ui.theme.ComposeBasicsCodelabTheme
 
-// TODO: Add both projects to git, continue compose path
-
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
